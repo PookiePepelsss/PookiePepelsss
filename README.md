@@ -1,35 +1,56 @@
-# Hi, I'm PookiePepelsss! 👋
+# Hi, I'm <YOUR NAME>! 👋
 
-I'm just getting started in the world of coding — learning the ropes, making things break, and figuring out how to fix them. My current weapon of choice is Lua/Luau, and I'm building up from there one script at a time.
+I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![PookiePepelsss's Stats](https://github-readme-stats.vercel.app/api?username=PookiePepelsss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🌱 Just getting started — every day I learn something new
-- 🎮 Writing in Lua/Luau (yes, the Roblox one — and it's actually pretty fun)
-- 🔨 Building small projects to level up my skills
-- 💡 Curious about how things work under the hood
-- 🤝 Open to collaborating with other beginners and learning together
+- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-## 🛠️ Tech Stack
+## My Articles
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Getting comfortable with Lua/Luau fundamentals
-  - Understanding variables, functions, and control flow
-  - Working with tables (Lua's superpower)
-  - Experimenting with scripting in Roblox Studio
-  - Slowly expanding into other languages next
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
 
-## 🔥 Streak
+ ## 🏆 Achievements
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PookiePepelsss&theme=tokyonight&hide_border=true&ring=a855f7&fire=22c55e&currStreakLabel=a855f7)
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
 
 ## 📬 Get in Touch
 
-- Check out my repos below and see what I've been building 👇
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
-Thanks for stopping by! Still early days, but everyone starts somewhere. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
