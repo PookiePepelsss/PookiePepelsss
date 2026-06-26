@@ -4,9 +4,15 @@ Self-taught developer finding my footing in code. Currently working with Lua and
 
 ## Stats
 
-| | |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=PookiePepelsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117) | ![Streak](https://streak-stats.demolab.com?user=PookiePepelsss&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590) |
+<table><tr><td>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PookiePepelsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117)
+
+</td><td>
+
+![Streak](https://streak-stats.demolab.com?user=PookiePepelsss&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7d8590)
+
+</td></tr></table>
 
 ## About
 
