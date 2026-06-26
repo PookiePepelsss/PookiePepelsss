@@ -19,7 +19,7 @@ Self-taught developer finding my footing in code. Currently working with Lua and
 - Working with **Lua / Luau**, scripting, learning, experimenting
 - Early stage, focused on understanding fundamentals before moving fast
 - Based in North Korea
-- Website: [pookiesivm.xyz](https://www.pookiesivm.xyz)
+- Website: NOT YET
 
 ## Languages & Tools
 
