@@ -19,13 +19,13 @@ Self-taught developer finding my footing in code. Currently working with Lua and
 - Working with **Lua / Luau**, scripting, learning, experimenting
 - Early stage, focused on understanding fundamentals before moving fast
 - Based in North Korea
-- Website: NOT YET
 
 ## Languages & Tools
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Contribution Graph
 
