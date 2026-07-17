@@ -6,7 +6,7 @@ Self-taught developer finding my footing in code. Currently working with Lua and
 
 <table><tr><td>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PookiePepelsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PookiePepelsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117)
 
 </td><td>
 
