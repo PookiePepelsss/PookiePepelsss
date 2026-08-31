@@ -19,7 +19,8 @@ Self-taught developer finding my footing in code. Currently working with Lua and
 - Working with **Lua / Luau**, scripting, learning, experimenting
 - Early stage, focused on understanding fundamentals before moving fast
 - Based in North Korea
-
+- I love Claude
+- 
 ## Languages & Tools
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
